@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Islamic-counter-app/static/css/main.f8067b64.css",
+    "main.js": "/Islamic-counter-app/static/js/main.221846cc.js",
+    "static/media/bg2.jpg": "/Islamic-counter-app/static/media/bg2.7aac52d0603a3e454284.jpg",
+    "static/media/Ramadhankarim-K6WD.otf": "/Islamic-counter-app/static/media/Ramadhankarim-K6WD.0a6bea3dfd9470411df2.otf",
+    "index.html": "/Islamic-counter-app/index.html",
+    "main.f8067b64.css.map": "/Islamic-counter-app/static/css/main.f8067b64.css.map",
+    "main.221846cc.js.map": "/Islamic-counter-app/static/js/main.221846cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8067b64.css",
+    "static/js/main.221846cc.js"
+  ]
+}
